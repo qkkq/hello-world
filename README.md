@@ -1,5 +1,7 @@
 # hello-world
-It is my first repository, follow it to see changes..
+First and only public repository. Follow it to see changes..
 //change1
 zmieniono mój opis:
 Witam jestem Krzyś , pozdrawiam cieplutko. :)
+//change2
+How about private one's ? You won't know ;)
